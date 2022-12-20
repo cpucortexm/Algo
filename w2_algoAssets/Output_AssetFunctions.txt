@@ -1,0 +1,128 @@
+--------------------------Creating Asset-------------------------
+Signed transaction with txID: H7NXR6V6UACD2GRCSJRVJC7B3ZDLR77HKQTNC5DJFRLGCWZHNE4Q
+TXID:  H7NXR6V6UACD2GRCSJRVJC7B3ZDLR77HKQTNC5DJFRLGCWZHNE4Q
+Result confirmed in round: 26321971
+Transaction information: {
+    "asset-index": 149058434,
+    "confirmed-round": 26321971,
+    "pool-error": "",
+    "txn": {
+        "sig": "JzrjBm6JnP/sq2i1eCFtdfycIvdcZn6/q5uGzbEogmjcWJ4scqA8rXX0+r927DN3BA6aV1hKr2J/ZVfSCKGdBw==",
+        "txn": {
+            "apar": {
+                "an": "encode",
+                "au": "https://path/to/my/asset/details",
+                "c": "3ISXW4RUB7H6OOOXLNJOCOT4DNO2CAATRHVKLU6ZCIDFO32IK3O7CHURZY",
+                "f": "3ISXW4RUB7H6OOOXLNJOCOT4DNO2CAATRHVKLU6ZCIDFO32IK3O7CHURZY",
+                "m": "3ISXW4RUB7H6OOOXLNJOCOT4DNO2CAATRHVKLU6ZCIDFO32IK3O7CHURZY",
+                "r": "3ISXW4RUB7H6OOOXLNJOCOT4DNO2CAATRHVKLU6ZCIDFO32IK3O7CHURZY",
+                "t": 1000,
+                "un": "ENCODE"
+            },
+            "fee": 1000,
+            "fv": 26321969,
+            "gen": "testnet-v1.0",
+            "gh": "SGO1GKSzyE7IEPItTxCByw9x8FmnrCDexi9/cOUJOiI=",
+            "lv": 26322969,
+            "snd": "O53FDP4I7TSUFM4B7P6RC2A5HXPGAZCCJAKR6YMCP4EOANQ772OIUQT3NM",
+            "type": "acfg"
+        }
+    }
+}
+Asset ID: 149058434
+{
+    "clawback": "3ISXW4RUB7H6OOOXLNJOCOT4DNO2CAATRHVKLU6ZCIDFO32IK3O7CHURZY",
+    "creator": "O53FDP4I7TSUFM4B7P6RC2A5HXPGAZCCJAKR6YMCP4EOANQ772OIUQT3NM",
+    "decimals": 0,
+    "default-frozen": false,
+    "freeze": "3ISXW4RUB7H6OOOXLNJOCOT4DNO2CAATRHVKLU6ZCIDFO32IK3O7CHURZY",
+    "manager": "3ISXW4RUB7H6OOOXLNJOCOT4DNO2CAATRHVKLU6ZCIDFO32IK3O7CHURZY",
+    "name": "encode",
+    "name-b64": "ZW5jb2Rl",
+    "reserve": "3ISXW4RUB7H6OOOXLNJOCOT4DNO2CAATRHVKLU6ZCIDFO32IK3O7CHURZY",
+    "total": 1000,
+    "unit-name": "ENCODE",
+    "unit-name-b64": "RU5DT0RF",
+    "url": "https://path/to/my/asset/details",
+    "url-b64": "aHR0cHM6Ly9wYXRoL3RvL215L2Fzc2V0L2RldGFpbHM="
+}
+Asset ID: 149058434
+{
+    "amount": 1000,
+    "asset-id": 149058434,
+    "is-frozen": false
+}
+--------------------------Change Manager-------------------------
+Signed transaction with txID: 3THAEMXWMCMIBSFTISJJ44X6B45LDLF7CXKSRK75XW7MOFGXNGXA
+TXID:  3THAEMXWMCMIBSFTISJJ44X6B45LDLF7CXKSRK75XW7MOFGXNGXA
+Result confirmed in round: 26321973
+Asset ID: 149058434
+{
+    "clawback": "3ISXW4RUB7H6OOOXLNJOCOT4DNO2CAATRHVKLU6ZCIDFO32IK3O7CHURZY",
+    "creator": "O53FDP4I7TSUFM4B7P6RC2A5HXPGAZCCJAKR6YMCP4EOANQ772OIUQT3NM",
+    "decimals": 0,
+    "default-frozen": false,
+    "freeze": "3ISXW4RUB7H6OOOXLNJOCOT4DNO2CAATRHVKLU6ZCIDFO32IK3O7CHURZY",
+    "manager": "O53FDP4I7TSUFM4B7P6RC2A5HXPGAZCCJAKR6YMCP4EOANQ772OIUQT3NM",
+    "name": "encode",
+    "name-b64": "ZW5jb2Rl",
+    "reserve": "3ISXW4RUB7H6OOOXLNJOCOT4DNO2CAATRHVKLU6ZCIDFO32IK3O7CHURZY",
+    "total": 1000,
+    "unit-name": "ENCODE",
+    "unit-name-b64": "RU5DT0RF",
+    "url": "https://path/to/my/asset/details",
+    "url-b64": "aHR0cHM6Ly9wYXRoL3RvL215L2Fzc2V0L2RldGFpbHM="
+}
+--------------------------Optin Asset-------------------------
+Signed transaction with txID: PQ5EJLOS42SJ7N65AMIGOTVYFYJ77LIOKRGTIL5CPCWB3B7TKKUQ
+TXID:  PQ5EJLOS42SJ7N65AMIGOTVYFYJ77LIOKRGTIL5CPCWB3B7TKKUQ
+Result confirmed in round: 26321975
+Asset ID: 149058434
+{
+    "amount": 0,
+    "asset-id": 149058434,
+    "is-frozen": false
+}
+--------------------------Transfer Asset-------------------------
+Signed transaction with txID: PJRWKIRR36BJ2VN2SG3KSQM7N47RCMROCY5Y3HMW7TNOMITWJCNA
+TXID:  PJRWKIRR36BJ2VN2SG3KSQM7N47RCMROCY5Y3HMW7TNOMITWJCNA
+Result confirmed in round: 26321977
+Asset ID: 149058434
+{
+    "amount": 10,
+    "asset-id": 149058434,
+    "is-frozen": false
+}
+--------------------------Freezing Asset-------------------------
+Signed transaction with txID: SBLSH5KE5VUJDVDBHWDRMVD6XTHLNLRLFGJHPUHUEO4IISVPR2KA
+TXID:  SBLSH5KE5VUJDVDBHWDRMVD6XTHLNLRLFGJHPUHUEO4IISVPR2KA
+Result confirmed in round: 26321979
+Asset ID: 149058434
+{
+    "amount": 10,
+    "asset-id": 149058434,
+    "is-frozen": true
+}
+--------------------------Revoking Asset-------------------------
+Signed transaction with txID: 3XW7LLSAS6Y4SBLW2ZC45FVFPVMPV5CAJKEBDFYUPLRGE4TQAV4A
+TXID:  3XW7LLSAS6Y4SBLW2ZC45FVFPVMPV5CAJKEBDFYUPLRGE4TQAV4A
+Result confirmed in round: 26321981
+Account 3
+Asset ID: 149058434
+{
+    "amount": 0,
+    "asset-id": 149058434,
+    "is-frozen": true
+}
+Account 1
+Asset ID: 149058434
+{
+    "amount": 1000,
+    "asset-id": 149058434,
+    "is-frozen": false
+}
+--------------------------Destroying Asset-------------------------
+Signed transaction with txID: US67V7FJLCIEMDL2QUTSME3ZJWL46VYP3XQJLW2NRVDMBMNYJ7MA
+TXID:  US67V7FJLCIEMDL2QUTSME3ZJWL46VYP3XQJLW2NRVDMBMNYJ7MA
+Result confirmed in round: 26321983
+For Account 1, nothing should print after this as the asset is destroyed on the creator account

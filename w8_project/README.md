@@ -2,8 +2,9 @@
 
 ### Authors
 
-Yogesh Kulkarni (yogidk@gmail.com)
-Venkat K (vnkorlipara@gmail.com)
+1. Yogesh Kulkarni (yogidk@gmail.com)
+
+2. Venkat K (vnkorlipara@gmail.com)
 
 ## Project: Storage counter
 

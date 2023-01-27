@@ -14,7 +14,7 @@ Counter deployed at:https://testnet.algoexplorer.io/application/156096526
 
 ### Details:
 
-The project defines a global counter which can be incremented and decremented. It also has a global owner which variable which gives us info about the address that is performing the increment and decrement operations.
+The project defines a global counter which can be incremented and decremented. It also has a global owner variable which gives us info about the address that is performing the increment and decrement operations.
 
 Handling of Overflow and Underflow:
 Counter is implemented using an unsigned integer.
